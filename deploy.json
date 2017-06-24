@@ -1,7 +1,7 @@
 {
   "REPO_URL":"https://github.com/narflurk/djangogirls.git",
   "PROJECT_NAME":"mysite",
-  "REMOTE_HOST":"52.163.114.108",
+  "REMOTE_HOST":"enicnarf.tk",
   "REMOTE_USER":"django",
   "STATIC_ROOT":"static",
   "STATIC_URL":"static",
