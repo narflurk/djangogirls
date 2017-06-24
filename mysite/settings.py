@@ -25,7 +25,7 @@ SECRET_KEY = '&kwk(88vn&+s^*iv%ek9)pj^g8buxr0(mfd8(@ea4k8w@owxj0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['enicnarf.tk', '52.163.114.108', '127.0.0.1']
+ALLOWED_HOSTS = ['enicnarf.tk', '127.0.0.1']
 
 
 # Application definition
